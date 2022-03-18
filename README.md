@@ -1,4 +1,4 @@
-# Color Palette of the Scene
+# Color palette from movie
 
 Verilen bir görüntüde kullanılan renk paletini bulabilmek amaçlandı. Bunun için OpenCV ve Sklearn KNN kullanıldı.
 
