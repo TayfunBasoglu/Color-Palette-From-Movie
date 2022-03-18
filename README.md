@@ -1,6 +1,6 @@
 # Color Palette of the Scene
 
-Verilen bir görüntüde kullanılan renk paledini bulabilmek amaçlandı. Bunun için OpenCV ve Sklearn KNN kullanıldı.
+Verilen bir görüntüde kullanılan renk paletini bulabilmek amaçlandı. Bunun için OpenCV ve Sklearn KNN kullanıldı.
 
 **Uygulamayı Google Colab üzerinden yaptım. Bu yüzden *cv2_imshow* kullanılıyor. Masaüstü uygulamasında cv içerisinden imkey ve imshow kullanılmalı.**
 
