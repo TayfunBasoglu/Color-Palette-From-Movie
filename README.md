@@ -91,8 +91,7 @@ cv2_imshow(palette)
 
 ~~~~
 
-
-
+<img src='images/palette.png' />
 
 
 
