@@ -26,7 +26,7 @@ image = io.imread("https://www.themoviedb.org/t/p/original/bKCKP0j7Ua9qceKH0TEXR
 
 *Eğer bir görseli okurken 404 hatası veriyorsa sitenin okunmasında engel ile karşılaşmıştır. Görseli okutmak için farklı yöntemler denenebilir.*
 
-OpenCV görselleri BGR olarak istiyor. Skimage ise RGB olarak okuyor. Bu yüzden gelene görseli boyutlarından çevirmemiz gerekiyor. Opencv içerisinde fonksiyon var fakat genel liste kuralı ile ters çevirebiliriz.
+OpenCV görselleri BGR olarak istiyor. Skimage ise RGB olarak okuyor. Bu yüzden gelen görseli boyutlarından çevirmemiz gerekiyor. Opencv içerisinde fonksiyon var fakat genel liste kuralı ile ters çevirebiliriz.
 
 ~~~~python
 
